@@ -1,0 +1,26 @@
+{
+  "name": "analogselect",
+  "version": "1.0.0",
+  "description": "analog selectbox",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackness1208/analogselect.git"
+  },
+  "keywords": [
+    "select",
+    "analog"
+  ],
+  "author": "jackness",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackness1208/analogselect/issues"
+  },
+  "homepage": "https://github.com/jackness1208/analogselect#readme"
+}
